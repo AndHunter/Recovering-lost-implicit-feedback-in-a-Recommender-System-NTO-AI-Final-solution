@@ -67,3 +67,6 @@ The code is optimized for Kaggle Notebooks or Cloude.ru (GPU recommended).
 2. Change the `DATA_DIR` variable to point to the competition datasets.
 3. Install dependencies: `pip install implicit catboost scikit-learn`
 4. Run the code. It will build features, train the models, and generate the `submission.csv` automatically.
+
+### Contacts
+Telegram: @main4562 and @FeelAiChallenge If you like this solution, please give the repository a ⭐.
