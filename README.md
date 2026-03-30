@@ -2,7 +2,8 @@
 **Public LB Score: ~0.144289 NDCG@20**
 
 This repository contains our solution for the "Lost Items" recommender system case. The premise: a logging failure during a database migration caused a chunk of positive user-book interactions to simply vanish. Our objective was to build an ML pipeline to identify and recover these "lost" events.
-
+### Data
+Download here: https://www.kaggle.com/datasets/andrewsokolovsky/final-nto-ai-2026
 ### Core Idea
 The solution is built on a classic **Two-Stage Recommender System** architecture: **Candidate Generation (Retrieval) -> Ranking**.
 
